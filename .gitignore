@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+face_dataset.pth
+
+# Environment variables
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Uploaded files (optional, if generated at runtime)
+uploads/
+
+# OS files
+.DS_Store
+Thumbs.db
